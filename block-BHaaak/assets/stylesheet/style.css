@@ -1,0 +1,13 @@
+
+
+ul {
+	padding-inline-start: 0px;
+}
+
+ul li {
+	display: inline;
+}
+
+.footer-item {
+	background-color: green;
+}
